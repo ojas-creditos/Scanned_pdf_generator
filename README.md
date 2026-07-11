@@ -158,8 +158,3 @@ chmod +x generate.sh
 ./generate.sh all
 ```
 
-Done.
-
-## License
-
-MIT
